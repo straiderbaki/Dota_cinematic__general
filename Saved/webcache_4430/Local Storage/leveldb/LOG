@@ -1,2 +1,3 @@
-2023/09/01-14:04:35.648 5bb8 Creating DB F:/Cinematic_course/DOTAN/GIT_Project/Dota_cinematic__general/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2023/09/01-14:04:35.653 5bb8 Reusing MANIFEST F:/Cinematic_course/DOTAN/GIT_Project/Dota_cinematic__general/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/09/01-15:53:09.503 5a8c Reusing MANIFEST D:/UE4/Cinematics/lesson4/Dota_cinematic__general/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/09/01-15:53:09.504 5a8c Recovering log #3
+2023/09/01-15:53:09.504 5a8c Reusing old log D:/UE4/Cinematics/lesson4/Dota_cinematic__general/Saved/webcache_4430\Local Storage\leveldb/000003.log 
