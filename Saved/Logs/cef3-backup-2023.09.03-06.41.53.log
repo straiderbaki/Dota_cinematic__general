@@ -1,0 +1,3 @@
+[0903/103958.216:ERROR:block_files.cc(109)] Failing CreateMapBlock
+[0903/103958.216:ERROR:entry_impl.cc(998)] Failed to save user data
+[0903/104153.134:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

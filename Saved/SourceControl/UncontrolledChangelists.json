@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"W:/JC_CINEMATIC_course/DOTAN/Dota_cinematic__general/Content/River_Map.umap",
+				"W:/JC_CINEMATIC_course/DOTAN/Dota_cinematic__general/Content/maps/1/ramp_ext_rt_001a.uasset",
+				"W:/JC_CINEMATIC_course/DOTAN/Dota_cinematic__general/Content/River_map/River_Map.umap",
+				"W:/JC_CINEMATIC_course/DOTAN/Dota_cinematic__general/Content/River_map/landscape_river.uasset",
 				"C:/Program Files/Epic Games/UE_5.2/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset",
 				"D:/JC/Projects/Dota/Dota_test/Content/Main.umap",
 				"D:/JC/Projects/Dota/Dota_test/Content/maps/1/good_base_wall002c.uasset",
